@@ -1,0 +1,7 @@
+#directories to ignore
+data/*
+*/logs/*
+
+#file types to ignore
+*.log
+*.err
