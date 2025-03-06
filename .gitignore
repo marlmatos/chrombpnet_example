@@ -1,6 +1,7 @@
 #directories to ignore
 data/*
 */logs/*
+bias_model*/
 
 #file types to ignore
 *.log
